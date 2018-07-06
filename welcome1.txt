@@ -1,2 +1,6 @@
 welcome to github2
+<<<<<<< HEAD
 will you meet me tomorrow
+=======
+ok
+>>>>>>> 1be219378eb9ce5bf07b1f333ffcfcf7cb31a93c
